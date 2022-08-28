@@ -1,0 +1,25 @@
+Name|PolishedKolben
+Description|Polished version of the normal game mode.
+Version|0.59
+Author|Kolben Games
+MapPath|$Mode\Content\Data\Maps\
+ScriptPath|$Mode\Content\Data\Scripts\
+PokeFilePath|$Mode\Content\Data\Maps\poke\
+PokemonDataPath|$Mode\Content\Pokemon\Data\
+ContentPath|$Mode\Content\
+LocalizationsPath|$Mode\Content\Localization\
+Gamerules|(MaxLevel|100)(OnlyCaptureFirst|0)(ForceRename|0)(DeathInsteadOfFaint|0)(CanUseHealItems|1)(Difficulty|0)(LockDifficulty|0)(GameOverAt0Pokemon|0)(CanGetAchievements|1)(ShowFollowPokemon|1)
+StartMap|newgame\intro0.dat
+StartPosition|1,0.1,3
+StartRotation|1.570796
+StartScript|startscript\main
+StartLocationName|Your Room
+StartDialogue|
+StartColor|59,123,165
+PokemonAppear|0
+IntroMusic|welcome
+IntroType|1
+SkinColors|248;176;32,248;216;88,56;88;200,216;96;112,56;88;152,239;90;156
+SkinFiles|Ethan,Lyra,Nate,Rosa,Hilbert,Hilda
+SkinNames|Ethan,Lyra,Nate,Rosa,Hilbert,Hilda
+SkinGenders|Male,Female,Male,Female,Male,Female

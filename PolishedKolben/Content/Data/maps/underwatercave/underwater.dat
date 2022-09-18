@@ -663,8 +663,8 @@ Items:
 		{"Entity"{ENT[{"EntityID"{str[ScriptBlock]}}{"Position"{sngArr[0,-0.375,31]}}{"TexturePath"{str[Routes]}}{"Textures"{recArr[[192,16,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[3]}}{"Action"{int[1]}}{"Visible"{bool[0]}}{"AdditionalValue"{str[underwatercave\underwatertreasure\111]}}{"Rotation"{int[0]}}{"Scale"{sngArr[0.25,0.25,0.25]}}]}}
 
 Sign Blocks:
-	{"EntityField"{ENT[{"EntityID"{str[SignBlock]}}{"Size"{intArr[1,9]}}{"Position"{sngArr[-4,0,23]}}{"TexturePath"{str[Cherrygrove]}}{"Textures"{recArr[[16,32,16,16][32,32,16,16]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,1,1]}}{"Collision"{bool[1]}}{"ModelID"{int[4]}}{"Action"{int[0]}}{"Visible"{bool[0]}}{"AdditionalValue"{str[It's dangerous to dive too ~far from the boat.]}}{"Rotation"{int[1]}}]}}
-	{"EntityField"{ENT[{"EntityID"{str[SignBlock]}}{"Size"{intArr[1,10]}}{"Position"{sngArr[14,0,23]}}{"TexturePath"{str[Cherrygrove]}}{"Textures"{recArr[[16,32,16,16][32,32,16,16]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,1,1]}}{"Collision"{bool[1]}}{"ModelID"{int[4]}}{"Action"{int[0]}}{"Visible"{bool[0]}}{"AdditionalValue"{str[It's dangerous to dive too ~far from the boat.]}}{"Rotation"{int[3]}}]}}
+	{"EntityField"{ENT[{"EntityID"{str[SignBlock]}}{"Size"{intArr[1,9]}}{"Position"{sngArr[-4,0,23]}}{"TexturePath"{str[Cities\Cherrygrove]}}{"Textures"{recArr[[16,32,16,16][32,32,16,16]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,1,1]}}{"Collision"{bool[1]}}{"ModelID"{int[4]}}{"Action"{int[0]}}{"Visible"{bool[0]}}{"AdditionalValue"{str[It's dangerous to dive too ~far from the boat.]}}{"Rotation"{int[1]}}]}}
+	{"EntityField"{ENT[{"EntityID"{str[SignBlock]}}{"Size"{intArr[1,10]}}{"Position"{sngArr[14,0,23]}}{"TexturePath"{str[Cities\Cherrygrove]}}{"Textures"{recArr[[16,32,16,16][32,32,16,16]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,1,1]}}{"Collision"{bool[1]}}{"ModelID"{int[4]}}{"Action"{int[0]}}{"Visible"{bool[0]}}{"AdditionalValue"{str[It's dangerous to dive too ~far from the boat.]}}{"Rotation"{int[3]}}]}}
 NPCs:
 	Pokemon:
 		Shellder:
@@ -673,16 +673,16 @@ NPCs:
 			{"NPC"{NPC[{"Position"{sngArr[3,0.95,34]}}{"Scale"{sngArr[1.5,1.5,1.5]}}{"TextureID"{str[[POKEMON|N]222]}}{"ID"{int[0]}}{"Name"{str[Clamperl]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}{"AnimateIdle"{bool[1]}}{"Movement"{str[Looking]}}{"MoveRectangles"{recArr[]}}]}}
 		Frillish:
 			{"NPC"{NPC[{"Position"{sngArr[15,-0.25,24]}}{"TextureID"{str[[POKEMON|N]592]}}{"ID"{int[1]}}{"Name"{str[Frillish]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}{"MoveRectangles"{recArr[[15,24,2,4]]}}{"Movement"{str[Walk]}}]}}
-			{"Floor"{ENT[{"SeasonTexture"{str[Grass]}}{"Size"{intArr[2,4]}}{"Position"{intArr[15,-0.25,24]}}{"Visible"{bool[0]}}{"TexturePath"{str[Cherrygrove]}}{"Texture"{rec[0,16,16,16]}}]}}
+			{"Floor"{ENT[{"SeasonTexture"{str[Grass]}}{"Size"{intArr[2,4]}}{"Position"{intArr[15,-0.25,24]}}{"Visible"{bool[0]}}{"TexturePath"{str[Cities\Cherrygrove]}}{"Texture"{rec[0,16,16,16]}}]}}
 		Skrelp:
 			{"NPC"{NPC[{"Position"{sngArr[-3,0.75,33]}}{"TextureID"{str[[POKEMON|N]690]}}{"ID"{int[1]}}{"Name"{str[Skrelp]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}{"MoveRectangles"{recArr[[-3,33,4,1]]}}{"Movement"{str[Walk]}}]}}
-			{"Floor"{ENT[{"SeasonTexture"{str[Grass]}}{"Size"{intArr[4,1]}}{"Position"{intArr[-3,0.75,33]}}{"Visible"{bool[0]}}{"TexturePath"{str[Cherrygrove]}}{"Texture"{rec[0,16,16,16]}}]}}
+			{"Floor"{ENT[{"SeasonTexture"{str[Grass]}}{"Size"{intArr[4,1]}}{"Position"{intArr[-3,0.75,33]}}{"Visible"{bool[0]}}{"TexturePath"{str[Cities\Cherrygrove]}}{"Texture"{rec[0,16,16,16]}}]}}
 		Sharpedo:
 			{"NPC"{NPC[{"Position"{sngArr[1,2.25,33]}}{"Scale"{sngArr[1.8,1.8,1.8]}}{"TextureID"{str[[POKEMON|N]319]}}{"ID"{int[1]}}{"Name"{str[Sharpedo]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}{"MoveRectangles"{recArr[[1,33,14,3]]}}{"Movement"{str[Straight]}}]}}
-			{"Floor"{ENT[{"SeasonTexture"{str[Grass]}}{"Size"{intArr[14,3]}}{"Position"{intArr[1,1.75,33]}}{"Visible"{bool[0]}}{"TexturePath"{str[Cherrygrove]}}{"Texture"{rec[0,16,16,16]}}]}}
+			{"Floor"{ENT[{"SeasonTexture"{str[Grass]}}{"Size"{intArr[14,3]}}{"Position"{intArr[1,1.75,33]}}{"Visible"{bool[0]}}{"TexturePath"{str[Cities\Cherrygrove]}}{"Texture"{rec[0,16,16,16]}}]}}
 		Lumineon:
 			{"NPC"{NPC[{"Position"{sngArr[14,0.75,28]}}{"TextureID"{str[[POKEMON|N]457]}}{"ID"{int[1]}}{"Name"{str[Lumineon]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}{"MoveRectangles"{recArr[[14,28,2,5]]}}{"Movement"{str[Straight]}}]}}
-			{"Floor"{ENT[{"SeasonTexture"{str[Grass]}}{"Size"{intArr[14,3]}}{"Position"{intArr[14,0.75,28]}}{"Visible"{bool[0]}}{"TexturePath"{str[Cherrygrove]}}{"Texture"{rec[0,16,16,16]}}]}}
+			{"Floor"{ENT[{"SeasonTexture"{str[Grass]}}{"Size"{intArr[14,3]}}{"Position"{intArr[14,0.75,28]}}{"Visible"{bool[0]}}{"TexturePath"{str[Cities\Cherrygrove]}}{"Texture"{rec[0,16,16,16]}}]}}
 Boat Shader:
 	{"Shader"{SHA[{"Shader"{sngArr[0.5,0.5,0.5]}}{"Size"{intArr[5,2]}}{"Position"{intArr[3,2,29]}}{"StopOnContact"{bool[1]}}{"ObjectSize"{sngArr[1,1]}}]}}
 	{"Shader"{SHA[{"Shader"{sngArr[0.5,0.5,0.5]}}{"Size"{intArr[3,1]}}{"Position"{intArr[4,2,28]}}{"StopOnContact"{bool[1]}}{"ObjectSize"{sngArr[1,1]}}]}}

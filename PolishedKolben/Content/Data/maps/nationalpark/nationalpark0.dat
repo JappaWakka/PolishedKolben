@@ -496,8 +496,8 @@ NPCs:
 
 {"NPC"{NPC[{"Position"{sngArr[16,0,4]}}{"TextureID"{str[1]}}{"ID"{int[7]}}{"Name"{str[Lady2]}}{"Action"{int[0]}}{"AdditionalValue"{str[This is Mail I got~from my daughter.~It cheers me up.]}}{"Rotation"{int[2]}}{"Movement"{str[Looking]}}{"MoveRectangles"{recArr[]}}]}}
 
-{"NPC"{NPC[{"Position"{sngArr[28,0.38,40]}}{"TextureID"{str[[POKEMON|N]53]}}{"ID"{int[3]}}{"Name"{str[Persian]}}{"Action"{int[1]}}{"AdditionalValue"{str[nationalpark\persian]}}{"Rotation"{int[2]}}{"Movement"{str[Looking]}}{"MoveRectangles"{recArr[]}}]}}
-{"NPC"{NPC[{"Position"{sngArr[29,0.38,40]}}{"TextureID"{str[15]}}{"ID"{int[4]}}{"Name"{str[Lady1]}}{"Action"{int[1]}}{"AdditionalValue"{str[nationalpark\quick_claw]}}{"Rotation"{int[2]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[28,0.28,40]}}{"TextureID"{str[[POKEMON|N]53]}}{"ID"{int[3]}}{"Name"{str[Persian]}}{"Action"{int[1]}}{"AdditionalValue"{str[nationalpark\persian]}}{"Rotation"{int[2]}}{"Movement"{str[Looking]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[29,0.28,40]}}{"TextureID"{str[15]}}{"ID"{int[4]}}{"Name"{str[Lady1]}}{"Action"{int[1]}}{"AdditionalValue"{str[nationalpark\quick_claw]}}{"Rotation"{int[2]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
 
 Trainers:
 {"NPC"{NPC[{"Position"{sngArr[20,0,29.01]}}{"TextureID"{str[1]}}{"ID"{int[8]}}{"Name"{str[PokefanW]}}{"Action"{int[2]}}{"AdditionalValue"{str[3|trainer\nationalpark\001]}}{"Rotation"{int[0]}}{"Movement"{str[Looking]}}{"MoveRectangles"{recArr[]}}]}}
